@@ -1,4 +1,4 @@
-# SyllabusX 🎓
+# MEGA MX 🎓
 
 > **Turn long, disorganized course syllabi into clean, interactive, mobile-friendly academic roadmaps.**
 
